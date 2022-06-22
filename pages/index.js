@@ -14,7 +14,7 @@ export default function Home({ allPostsData }) {
         <p>Ingeniero en Sistemas de información</p>
         <p>
           Podes contactarme en{" "}
-          <a href="https://www.linkedin.com/in/aquinomanuel/" target="_blank">
+          <a href="https://www.linkedin.com/in/aquinomanuel/" target="_blank" rel="noreferrer">
             linkedin
           </a>
         </p>
