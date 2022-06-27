@@ -1,0 +1,59 @@
+{
+	"folders": [
+	  {
+		"path": ".."
+	  }
+	],
+	"settings": {
+	  "javascript.updateImportsOnFileMove.enabled": "always",
+	  "explorer.confirmDelete": false,
+	  "explorer.confirmDragAndDrop": false,
+	  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+	  "[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	  },
+	  "[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	  },
+	  "[typescript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	  },
+	  "npm.enableRunFromFolder": true,
+	  "editor.formatOnSave": true,
+	  "breadcrumbs.enabled": true,
+	  "eslint.alwaysShowStatus": true,
+	  // The number of spaces a tab is equal to. This setting is overridden
+	  // based on the file contents when `editor.detectIndentation` is true.
+	  "editor.tabSize": 2,
+	  // Insert spaces when pressing Tab. This setting is overriden
+	  // based on the file contents when `editor.detectIndentation` is true.
+	  "editor.insertSpaces": true,
+	  // When opening a file, `editor.tabSize` and `editor.insertSpaces`
+	  // will be detected based on the file contents. Set to false to keep
+	  // the values you've explicitly set, above.
+	  "editor.detectIndentation": false,
+	  "javascript.suggest.autoImports": true,
+	  "emmet.triggerExpansionOnTab": true,
+	  "emmet.excludeLanguages": ["markdown"],
+	  "emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	  },
+	  "prettier.singleQuote": true,
+	  "prettier.jsxSingleQuote": true,
+	  "window.zoomLevel": 0,
+	  "editor.minimap.enabled": false,
+	  "autoimport.filesToScan": "**/*.{js}",
+	  "i18n-ally.localesPaths": ["src/locales"],
+	  "i18n-ally.keystyle": "nested",
+	  "i18n-ally.review.enabled": false,
+	  "i18n-ally.review.gutters": false,
+	  "i18n-ally.displayLanguage": "es",
+	  "i18n-ally.enabledParsers": ["js", "json"],
+	  "i18n-ally.pathMatcher": "{locale}/translation.json",
+	  "i18n-ally.namespace": true,
+	  "i18n-ally.frameworks.ruby-rails.scopeRoot": "",
+	  "i18n-ally.ignoredLocales": ["en"],
+	  "editor.bracketPairColorization.enabled": true
+	}
+  }
+  
